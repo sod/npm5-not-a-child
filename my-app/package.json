@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dashdash": "^1.14.1",
     "my-lib": "file:../my-lib"
   }
 }
